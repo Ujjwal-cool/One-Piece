@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/One-Piece/static/css/main.a7152e4d.css",
+    "main.js": "/One-Piece/static/js/main.8d6d7060.js",
+    "static/js/787.56286311.chunk.js": "/One-Piece/static/js/787.56286311.chunk.js",
+    "static/media/zoro2.jpg": "/One-Piece/static/media/zoro2.b2d7e272b09e92a87913.jpg",
+    "static/media/itachi.jpg": "/One-Piece/static/media/itachi.669161882020a4830150.jpg",
+    "static/media/luffy.jpg": "/One-Piece/static/media/luffy.30cfed49752e6cdc26ee.jpg",
+    "static/media/kakashi3.jpg": "/One-Piece/static/media/kakashi3.42671bfba5eee813a772.jpg",
+    "index.html": "/One-Piece/index.html",
+    "main.a7152e4d.css.map": "/One-Piece/static/css/main.a7152e4d.css.map",
+    "main.8d6d7060.js.map": "/One-Piece/static/js/main.8d6d7060.js.map",
+    "787.56286311.chunk.js.map": "/One-Piece/static/js/787.56286311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7152e4d.css",
+    "static/js/main.8d6d7060.js"
+  ]
+}
